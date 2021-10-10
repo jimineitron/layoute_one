@@ -1,0 +1,36 @@
+@media (max-width: 1060px) {
+  .direction {
+    padding: 120px 0 70px;
+  }
+  .team__item--2 {
+    left: 0;
+    top: 180px;
+  }
+
+  .team__item--5 {
+    right: 160px;
+    bottom: 135px;
+  }
+}
+
+@media (max-width: 860px) {
+  .team__inner {
+    padding: 100px 0 100px;
+    position: relative;
+  }
+  .team__item {
+    display: none;
+  }
+  .team__box {
+  }
+  .team__title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .title {
+  }
+  .team__text {
+  }
+  .team__btn {
+  }
+}

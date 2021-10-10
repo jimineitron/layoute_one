@@ -1,0 +1,30 @@
+@media (max-width: 990px) {
+  .tools {
+    padding-top: 80px;
+  }
+  .tools__items {
+    flex-wrap: wrap;
+  }
+  .tools__item {
+    flex: 0 0 50%;
+    padding-right: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 510px) {
+  .tools {
+    padding-top: 30px;
+  }
+  .tools__title {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .tools__items {
+  }
+  .tools__item-img {
+  }
+  .tools__item {
+    flex: 0 0 100%;
+  }
+}
