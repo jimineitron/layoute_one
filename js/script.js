@@ -2,9 +2,9 @@
 // @@include("slick.min.js");
 // @@include("inputMasked.js");
 
-import * as fn from "./jquery.min.js";
-import * as fn1 from "./slick.min.js";
-import * as fn2 from "./inputMasked.js";
+// import * as fn from "./jquery.min.js";
+// import * as fn1 from "./slick.min.js";
+// import * as fn2 from "./inputMasked.js";
 
 $(document).ready(function () {
   $(".slider").slick({
