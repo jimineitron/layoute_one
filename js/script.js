@@ -1,3 +1,4 @@
+window.addEventListener('load',function(event){
 // @@include("jquery.min.js");
 // @@include("slick.min.js");
 // @@include("inputMasked.js");
@@ -2074,3 +2075,5 @@ document
     event.preventDefault();
     val();
   });
+
+})
